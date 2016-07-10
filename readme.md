@@ -1,3 +1,5 @@
+<!-- Remember learnyounode?  Wasn't that fun?!  Well, I have some bad news and some good news.  Today, you'll be doing something very similar, but with Ruby.  The good news is that you will have your fellow developers and your consultants around to help you if you get stuck. Before we get into this, I'd like to see everyone's computers at half-mast.  I want to make sure we get through all the intro material before you jump into it. -->
+
 # Ruby Koans
 
 ## About Ruby Koans
